@@ -1,26 +1,28 @@
 # Cryptocurrency Portfolio Tracker
 
-Welcome to our Cryptocurrency Portfolio Tracker, an innovative application designed to offer real-time insights into cryptocurrency markets, alongside powerful portfolio management features. Leveraging the latest technologies and architecture patterns, this application stands as a testament to efficient and safe coding practices.
+Welcome to the Cryptocurrency Portfolio Tracker, an advanced application designed to provide real-time insights into the cryptocurrency market. This app also includes robust features for managing your personal cryptocurrency portfolio. Developed using modern software design principles and a commitment to efficient, safe coding, our app is a powerful tool for both novice and seasoned cryptocurrency enthusiasts.
 
-Application Features
-Live Cryptocurrency Data: Stay updated with real-time price information from various cryptocurrencies.
-Portfolio Management: Easily track and manage your personal cryptocurrency portfolio with secure data storage.
-Dynamic Search and Filters: Implement advanced searching, filtering, and sorting capabilities to navigate through vast cryptocurrency data.
-Refreshing User Interface: Enjoy a custom color theme and engaging loading animations for a seamless user experience.
-Technical Aspects
-MVVM Architecture: Our codebase follows the Model-View-ViewModel (MVVM) pattern, ensuring a clean, scalable, and maintainable structure.
-Core Data Integration: Utilize Core Data for efficient and safe storage of the user's portfolio data.
-File Management: Employ FileManager for handling image data storage needs.
-Combine Framework: Leverage the power of Combine for handling publishers and subscribers in reactive programming.
-API Integration: Perform multiple API calls to fetch live cryptocurrency data.
-JSON Parsing: Utilize Codable for efficient and error-free JSON data decoding.
-SwiftUI Interface: The application boasts a 100% SwiftUI interface, ensuring a modern and responsive user experience.
-Multi-threading Capability: Employ multi-threading to ensure smooth and responsive app performance.
-Safe Coding Practices: Emphasize safety with "if let" and "guard" statements to prevent crashes and enhance reliability.
-Getting Started
-To get started with the Cryptocurrency Portfolio Tracker:
+## Features
 
-Clone the repository to your local machine.
-Ensure you have the latest version of Xcode installed.
-Open the project and install any necessary dependencies.
-Run the application in your preferred simulator or physical device.
+### App Features
+
+- **Live Cryptocurrency Data**: Get real-time prices of various cryptocurrencies.
+- **Portfolio Management**: Securely manage your personal cryptocurrency portfolio.
+- **Advanced Search and Filters**: Navigate through the crypto market with ease using search, filter, and sort functionalities.
+- **Custom UI**: A sleek user interface with custom color themes and engaging loading animations.
+
+### Technical Features
+
+- **MVVM Architecture**: Organized and maintainable codebase using the Model-View-ViewModel pattern.
+- **Core Data**: Secure and efficient handling of user's portfolio data.
+- **FileManager**: Manage image data storage effectively.
+- **Combine Framework**: Implement reactive programming with publishers and subscribers.
+- **API Integration**: Fetch live data through multiple API calls.
+- **Codable**: Accurate and efficient JSON data parsing.
+- **SwiftUI**: A modern, 100% SwiftUI interface for a responsive user experience.
+- **Multi-threading**: Enhanced performance using background threads.
+- **Safe Coding Practices**: Reliability ensured with "if let" and "guard" statements.
+
+## Getting Started
+
+1. **Clone the repository:**
